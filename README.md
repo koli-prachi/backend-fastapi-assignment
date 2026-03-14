@@ -29,33 +29,6 @@ It includes:
 
 ---
 
-# Project Structure
-
-backend-assign
-
-backend/
-│
-├── routers/
-│ ├── user_routes.py
-│ └── task_routes.py
-│
-├── auth.py
-├── auth_middleware.py
-├── security.py
-├── models.py
-├── schemas.py
-├── database.py
-└── main.py
-
-frontend/
-test/
-
-README.md
-requirements.txt
-.gitignore
-
----
-
 # Features
 
 ## Authentication
